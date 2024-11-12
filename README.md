@@ -19,5 +19,3 @@ Conway's Game of Life operates on a grid of cells, where each cell has two possi
 - **Python**: Core programming language used.
 - **Pygame**: Library used for creating the grid, handling user input, and displaying animations.
 
-### Installation
-To run the Game of Life on your local machine, follow these steps:
