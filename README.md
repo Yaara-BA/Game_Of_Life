@@ -19,3 +19,16 @@ Conway's Game of Life operates on a grid of cells, where each cell has two possi
 - **Python**: Core programming language used.
 - **Pygame**: Library used for creating the grid, handling user input, and displaying animations.
 
+### Known Patterns to Try
+- **Glider**: A small pattern that moves diagonally across the grid.
+- **Blinker**: An oscillator that alternates between horizontal and vertical lines.
+- **Block**: A still-life pattern that remains stable.
+
+Experiment by creating your own patterns or setting up different initial states to observe unique evolutions.
+
+### Future Enhancements
+Potential improvements to explore in the future:
+- Adding different grid sizes and customization options.
+- Implementing a feature to save and load specific patterns.
+- Allowing for color customization for cells in different states.
+
